@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Infystat 1658153484330" max_length="40" name="x_774355_infystat_1658153484330" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Store name" label="Store name" max_length="40" name="u_store_name" type="string"/>
+    </element>
+</database>
