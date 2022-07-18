@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>store</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>40</order>
+        <record_id_field/>
+        <screen display_value="Details">74d376c9877c1110620153983cbb3523</screen>
+        <screen_data_item_table>x_774355_infystat_shoppig_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-18 14:20:54</sys_created_on>
+        <sys_id>f8d376c9877c1110620153983cbb352a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store</sys_name>
+        <sys_package display_value="InfyStat" source="x_774355_infystat">79c0f209877c1110620153983cbb3569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InfyStat">79c0f209877c1110620153983cbb3569</sys_scope>
+        <sys_update_name>sys_sg_screen_field_f8d376c9877c1110620153983cbb352a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-18 14:20:54</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=f8d376c9877c1110620153983cbb352a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="InfyStat">79c0f209877c1110620153983cbb3569</application>
+        <file_path/>
+        <instance_id>cb64fa22db9d45109a4dcac505961946</instance_id>
+        <instance_name>dev123102</instance_name>
+        <name>sys_sg_screen_field_f8d376c9877c1110620153983cbb352a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>store</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>40</order><record_id_field/><screen display_value="Details">74d376c9877c1110620153983cbb3523</screen><screen_data_item_table>x_774355_infystat_shoppig_item</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-18 14:20:54</sys_created_on><sys_id>f8d376c9877c1110620153983cbb352a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>store</sys_name><sys_package display_value="InfyStat" source="x_774355_infystat">79c0f209877c1110620153983cbb3569</sys_package><sys_policy/><sys_scope display_value="InfyStat">79c0f209877c1110620153983cbb3569</sys_scope><sys_update_name>sys_sg_screen_field_f8d376c9877c1110620153983cbb352a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-18 14:20:54</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=f8d376c9877c1110620153983cbb352a"/></record_update>]]></payload>
+        <payload_hash>212196652</payload_hash>
+        <record_name>store</record_name>
+        <reverted_from/>
+        <source>b9c0f209877c1110620153983cbb356b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-18 14:20:56</sys_created_on>
+        <sys_id>d9d376c9877c1110620153983cbb35b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18211aefb530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-18 14:20:56</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>55d376c9a47c1110853a819ab4d611b5</update_guid>
+        <update_guid_history>55d376c9a47c1110853a819ab4d611b5:212196652</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-18 14:58:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>93ed1d477293424c991d956ca4b8fa84</sys_id>
+        <sys_metadata>f8d376c9877c1110620153983cbb352a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store</sys_name>
+        <sys_package display_value="InfyStat" source="x_774355_infystat">79c0f209877c1110620153983cbb3569</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="InfyStat">79c0f209877c1110620153983cbb3569</sys_scope>
+        <sys_scope_delete display_value="">67c155bfd0c34990ad70feb19fc59100</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_f8d376c9877c1110620153983cbb352a</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_f8d376c9877c1110620153983cbb352a">d9d376c9877c1110620153983cbb35b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-18 14:58:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
